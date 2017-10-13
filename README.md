@@ -1,4 +1,4 @@
-# WebPack: React + Sass
+# Server side with React
 
 ```
 Basic server WebPack: React + Sass
