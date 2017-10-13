@@ -5,5 +5,10 @@ Basic server WebPack: React + Sass
 
 INSTALL: npm i
 DEV: npm run dev
-BUILD: npm run build
+Start: npm start
 ```
+
+# Next steps
+
+- Create watcher components
+- Create watcher server
