@@ -8,6 +8,8 @@ DEV: npm run dev
 Start: npm start
 ```
 
+server: http://localhost:3000
+
 # Next steps
 
 - Create watcher components
