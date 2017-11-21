@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "webpack --colors && babel ./src/MyComponent.js --out-file ./dist/MyComponent.js &&babel server.js --out-file index.js  && nodemon index.js"
+    "dev": "webpack --colors && babel ./src/MyComponent.js --out-file ./dist/MyComponent.js && babel server.js --out-file index.js && nodemon index.js"
   },
   "author": "Potranco",
   "license": "ISC",
